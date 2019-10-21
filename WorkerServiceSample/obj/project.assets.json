@@ -7156,11 +7156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\WorkerServiceSample\\WorkerServiceSample\\WorkerServiceSample.csproj",
+      "projectUniqueName": "C:\\Dev\\WorkerServiceExample\\WorkerServiceSample\\WorkerServiceSample.csproj",
       "projectName": "WorkerServiceSample",
-      "projectPath": "C:\\Dev\\WorkerServiceSample\\WorkerServiceSample\\WorkerServiceSample.csproj",
+      "projectPath": "C:\\Dev\\WorkerServiceExample\\WorkerServiceSample\\WorkerServiceSample.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\WorkerServiceSample\\WorkerServiceSample\\obj\\",
+      "outputPath": "C:\\Dev\\WorkerServiceExample\\WorkerServiceSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
